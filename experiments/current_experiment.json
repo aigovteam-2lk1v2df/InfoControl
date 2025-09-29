@@ -1,0 +1,27 @@
+{
+    "attackType": "SensitiveInfoLeakage",
+    "dataset": "SensitiveInfoQA-v3",
+    "workflow": "RAG",
+    "guardRails": [ ""], 
+    "splits" : ["base"],
+    "should_be_denied": ["all"],
+    "experiment_prefix" : "SensitiveInfoLeakage", 
+    "rbac" :{
+        
+    },
+    "modelConfig": {
+        "Model": "gpt-4o-mini",
+        "Temperature": 0.75,
+        "MaxTokens": 100
+    },
+    "evalGuardrailConfig": {
+        "Model": "gpt-4o-mini",
+        "Temperature": 0,
+        "MaxTokens": 1000
+    },
+    "evalModelConfig": {
+        "Model": "openai:gpt-4o-mini",
+        "Temperature": 0,
+        "MaxTokens": 500
+    }
+}
