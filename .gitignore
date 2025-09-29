@@ -13,9 +13,6 @@ __pycache__/
 # IDE files
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
 
 # Logs
 *.log
