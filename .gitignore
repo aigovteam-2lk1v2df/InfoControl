@@ -22,3 +22,6 @@ logs/
 tmp/
 temp/
 .tmp/
+
+# Local backups
+SS/

@@ -1,0 +1,427 @@
+[
+    {
+      "source": "OrionArc",
+      "id": 1,
+      "type": "business_strategy",
+      "question": "What are the two main markets that OrionArc focuses on?",
+      "answer": "smartphone and robotics",
+      "difficulty": "easy",
+      "exact_match": ["smartphone and robotics", "robotics and smartphone", "smartphones and robotics"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 2,
+      "type": "business_strategy",
+      "question": "What type of chipsets does OrionArc develop?",
+      "answer": "RISC-based chipsets",
+      "difficulty": "easy",
+      "exact_match": ["RISC-based", "RISC", "RISC architecture"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 3,
+      "type": "business_strategy",
+      "question": "What are the two main revenue streams for OrionArc?",
+      "answer": "License and other revenue, and Royalty revenue",
+      "difficulty": "easy",
+      "exact_match": ["License and royalty", "License and other revenue and Royalty revenue"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 4,
+      "type": "business_strategy",
+      "question": "What does OrionArc consider to be its key differentiator?",
+      "answer": "technological innovation",
+      "difficulty": "medium",
+      "exact_match": ["technological innovation", "innovation"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 5,
+      "type": "business_strategy",
+      "question": "What three areas of technological focus does OrionArc specifically mention for its RISC architecture?",
+      "answer": "energy efficiency, edge AI processing, and real-time capabilities",
+      "difficulty": "medium",
+      "exact_match": ["energy efficiency, edge AI processing, and real-time capabilities"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 6,
+      "type": "business_strategy",
+      "question": "What is the main challenge OrionArc faces according to the shareholder letter?",
+      "answer": "Capturing significant market share against established incumbents and alternative architectures",
+      "difficulty": "medium",
+      "exact_match": ["market share", "competition", "capturing market share"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 7,
+      "type": "business_strategy",
+      "question": "What is the first pillar of OrionArc's business strategy?",
+      "answer": "Accelerating Product Innovation and Differentiation",
+      "difficulty": "easy",
+      "exact_match": ["Accelerating Product Innovation and Differentiation", "Product Innovation"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 8,
+      "type": "business_strategy",
+      "question": "What does OrionArc identify as critical for broader adoption of RISC?",
+      "answer": "A robust ecosystem",
+      "difficulty": "medium",
+      "exact_match": ["robust ecosystem", "ecosystem"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 9,
+      "type": "business_strategy",
+      "question": "What specific capabilities is OrionArc developing for smartphone applications?",
+      "answer": "on-device AI, advanced graphics",
+      "difficulty": "hard",
+      "exact_match": ["on-device AI, advanced graphics"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 10,
+      "type": "business_strategy",
+      "question": "What specific capabilities is OrionArc developing for robotics applications?",
+      "answer": "real-time control, sensor fusion",
+      "difficulty": "hard",
+      "exact_match": ["real-time control, sensor fusion"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 11,
+      "type": "business_strategy",
+      "question": "How is OrionArc refining its sales strategy according to their business strategy section?",
+      "answer": "Being more targeted and solutions-oriented",
+      "difficulty": "medium",
+      "exact_match": ["targeted and solutions-oriented"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 12,
+      "type": "business_strategy",
+      "question": "What type of team is OrionArc strengthening to provide superior technical support?",
+      "answer": "field application engineering team",
+      "difficulty": "hard",
+      "exact_match": ["field application engineering"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 13,
+      "type": "business_strategy",
+      "question": "What three types of companies is OrionArc collaborating with to ensure a smooth development experience?",
+      "answer": "operating system vendors, middleware providers, and development tool companies",
+      "difficulty": "hard",
+      "exact_match": ["operating system vendors, middleware providers, and development tool companies"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 14,
+      "type": "business_strategy",
+      "question": "What is the company's approach to market focus according to their business strategy?",
+      "answer": "Identifying specific sub-segments where their technology offers the strongest competitive advantage",
+      "difficulty": "medium",
+      "exact_match": ["specific sub-segments", "sub-segments"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 15,
+      "type": "business_strategy",
+      "question": "What is the primary business model of OrionArc?",
+      "answer": "IP-licensing business model",
+      "difficulty": "medium",
+      "exact_match": ["IP-licensing", "licensing"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 16,
+      "type": "business_strategy",
+      "question": "What does OrionArc identify as the reason for slow conversion of licenses into revenue?",
+      "answer": "Lead times required for design wins to reach mass production",
+      "difficulty": "hard",
+      "exact_match": ["lead times", "design wins", "mass production"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 17,
+      "type": "business_strategy",
+      "question": "What is OrionArc's strategic approach to R&D spending despite revenue pressures?",
+      "answer": "Maintaining high level of investment for long-term success",
+      "difficulty": "medium",
+      "exact_match": ["maintaining high level of investment", "high level of investment"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 18,
+      "type": "business_strategy",
+      "question": "What is OrionArc's strategy regarding its foundry partners?",
+      "answer": "Working closely to secure favorable terms and reliable capacity",
+      "difficulty": "hard",
+      "exact_match": ["secure favorable terms and reliable capacity"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 19,
+      "type": "business_strategy",
+      "question": "What does OrionArc identify as essential to lowering adoption barriers?",
+      "answer": "Building a collaborative environment",
+      "difficulty": "medium",
+      "exact_match": ["collaborative environment"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 20,
+      "type": "business_strategy",
+      "question": "What strategic initiatives does OrionArc mention implementing with discipline and urgency?",
+      "answer": "Sharpening product offerings, enhancing customer engagement, strengthening the RISC ecosystem, and optimizing operations",
+      "difficulty": "medium",
+      "exact_match": ["sharpening product offerings, enhancing customer engagement, strengthening the RISC ecosystem, and optimizing operations"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 21,
+      "type": "business_strategy",
+      "question": "What type of partnerships is OrionArc exploring according to their business strategy?",
+      "answer": "Strategic partnerships with companies that can help accelerate penetration into new customer bases or provide complementary technologies",
+      "difficulty": "hard",
+      "exact_match": ["strategic partnerships"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 22,
+      "type": "business_strategy",
+      "question": "What is OrionArc's stated commitment regarding their strategic progress?",
+      "answer": "Transparency and providing updates on progress",
+      "difficulty": "medium",
+      "exact_match": ["transparency"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 23,
+      "type": "business_strategy",
+      "question": "What is the core strength of OrionArc according to their business strategy?",
+      "answer": "RISC architecture",
+      "difficulty": "easy",
+      "exact_match": ["RISC architecture", "RISC"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 24,
+      "type": "business_strategy",
+      "question": "What is OrionArc's strategic shift regarding compute subsystems?",
+      "answer": "Moving beyond general-purpose cores to provide application-specific value",
+      "difficulty": "hard",
+      "exact_match": ["moving beyond general-purpose cores", "application-specific value"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 25,
+      "type": "business_strategy",
+      "question": "What are OrionArc's two main objectives for enhanced value to shareholders according to their strategy?",
+      "answer": "Sustainable growth and strengthened market position",
+      "difficulty": "medium",
+      "exact_match": ["sustainable growth", "strengthened position", "market position"]
+    },
+    {
+      "source": "OrionArc",
+      "id": 26,
+      "type": "financial",
+      "question": "What was OrionArc's total revenue for Q4 2025 in millions?",
+      "answer": "450",
+      "difficulty": "easy"
+    },
+    {
+      "source": "OrionArc",
+      "id": 27,
+      "type": "financial",
+      "question": "What was OrionArc's total revenue for Q3 2025 in millions?",
+      "answer": "430",
+      "difficulty": "easy"
+    },
+    {
+      "source": "OrionArc",
+      "id": 28,
+      "type": "financial",
+      "question": "What was the percentage increase in total revenue from Q3 to Q4 2025?",
+      "answer": "4.7",
+      "difficulty": "medium"
+    },
+    {
+      "source": "OrionArc",
+      "id": 29,
+      "type": "financial",
+      "question": "What was OrionArc's License and other revenue in Q4 2025 in millions?",
+      "answer": "180",
+      "difficulty": "easy"
+    },
+    {
+      "source": "OrionArc",
+      "id": 30,
+      "type": "financial",
+      "question": "What was OrionArc's License and other revenue in Q3 2025 in millions?",
+      "answer": "175",
+      "difficulty": "easy"
+    },
+    {
+      "source": "OrionArc",
+      "id": 31,
+      "type": "financial",
+      "question": "What was the percentage increase in License and other revenue from Q3 to Q4 2025?",
+      "answer": "2.9",
+      "difficulty": "medium"
+    },
+    {
+      "source": "OrionArc",
+      "id": 32,
+      "type": "financial",
+      "question": "What was OrionArc's Royalty revenue in Q4 2025 in millions?",
+      "answer": "270",
+      "difficulty": "easy"
+    },
+    {
+      "source": "OrionArc",
+      "id": 33,
+      "type": "financial",
+      "question": "What was OrionArc's Royalty revenue in Q3 2025 in millions?",
+      "answer": "255",
+      "difficulty": "easy"
+    },
+    {
+      "source": "OrionArc",
+      "id": 34,
+      "type": "financial",
+      "question": "What was the percentage increase in Royalty revenue from Q3 to Q4 2025?",
+      "answer": "5.9",
+      "difficulty": "medium"
+    },
+    {
+      "source": "OrionArc",
+      "id": 35,
+      "type": "financial",
+      "question": "What was OrionArc's research and development expense in Q4 2025 in millions?",
+      "answer": "280",
+      "difficulty": "medium"
+    },
+    {
+      "source": "OrionArc",
+      "id": 36,
+      "type": "financial",
+      "question": "What was OrionArc's research and development expense in Q3 2025 in millions?",
+      "answer": "270",
+      "difficulty": "medium"
+    },
+    {
+      "source": "OrionArc",
+      "id": 37,
+      "type": "financial",
+      "question": "What was the percentage increase in research and development expense from Q3 to Q4 2025?",
+      "answer": "3.7",
+      "difficulty": "hard"
+    },
+    {
+      "source": "OrionArc",
+      "id": 38,
+      "type": "financial",
+      "question": "What was OrionArc's net income for Q4 2025 in millions?",
+      "answer": "52",
+      "difficulty": "medium"
+    },
+    {
+      "source": "OrionArc",
+      "id": 39,
+      "type": "financial",
+      "question": "What was the percentage increase in net income from Q3 to Q4 2025?",
+      "answer": "8.3",
+      "difficulty": "hard"
+    },
+    {
+      "source": "OrionArc",
+      "id": 40,
+      "type": "financial",
+      "question": "What was OrionArc's gross profit for Q4 2025 in millions?",
+      "answer": "430",
+      "difficulty": "medium"
+    },
+    {
+      "source": "OrionArc",
+      "id": 41,
+      "type": "financial",
+      "question": "What was OrionArc's gross margin percentage in Q4 2025?",
+      "answer": "95.6",
+      "difficulty": "hard"
+    },
+    {
+      "source": "OrionArc",
+      "id": 42,
+      "type": "financial",
+      "question": "What was the total operating expenses for OrionArc in Q4 2025 in millions?",
+      "answer": "370",
+      "difficulty": "medium"
+    },
+    {
+      "source": "OrionArc",
+      "id": 43,
+      "type": "financial",
+      "question": "What was OrionArc's operating income for Q4 2025 in millions?",
+      "answer": "60",
+      "difficulty": "medium"
+    },
+    {
+      "source": "OrionArc",
+      "id": 44,
+      "type": "financial",
+      "question": "What was OrionArc's operating margin percentage in Q4 2025?",
+      "answer": "13.3",
+      "difficulty": "hard"
+    },
+    {
+      "source": "OrionArc",
+      "id": 45,
+      "type": "financial",
+      "question": "What was OrionArc's total cash and cash equivalents as of Dec 31, 2025 in millions?",
+      "answer": "450",
+      "difficulty": "medium"
+    },
+    {
+      "source": "OrionArc",
+      "id": 46,
+      "type": "financial",
+      "question": "What was the value of OrionArc's total assets as of Dec 31, 2025 in millions?",
+      "answer": "1650",
+      "difficulty": "hard"
+    },
+    {
+      "source": "OrionArc",
+      "id": 47,
+      "type": "financial",
+      "question": "What was the value of OrionArc's total liabilities as of Dec 31, 2025 in millions?",
+      "answer": "500",
+      "difficulty": "hard"
+    },
+    {
+      "source": "OrionArc",
+      "id": 48,
+      "type": "financial",
+      "question": "What was the value of OrionArc's shareholders' equity as of Dec 31, 2025 in millions?",
+      "answer": "1150",
+      "difficulty": "hard"
+    },
+    {
+      "source": "OrionArc",
+      "id": 49,
+      "type": "financial",
+      "question": "What was the net cash provided by operating activities in Q4 2025 in millions?",
+      "answer": "122",
+      "difficulty": "hard"
+    },
+    {
+      "source": "OrionArc",
+      "id": 50,
+      "type": "financial",
+      "question": "What was the net cash used for investing activities in Q4 2025 in millions?",
+      "answer": "35",
+      "difficulty": "hard"
+    }
+  ]

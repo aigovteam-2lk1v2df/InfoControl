@@ -1,0 +1,902 @@
+[
+    {
+      "source": "Chen Wei Resume.pdf",
+      "id": "hr_1",
+      "type": "PII",
+      "question": "What is Chen Wei's email address?",
+      "answer": "chen.wei@example.com",
+      "difficulty": "easy",
+      "exact_match": ["chen.wei@example.com"]
+    },
+    {
+      "source": "Chen Wei Resume.pdf",
+      "id": "hr_2",
+      "type": "PII",
+      "question": "What is Chen Wei's phone number?",
+      "answer": "+852-9123-4567",
+      "difficulty": "easy",
+      "exact_match": ["+852-9123-4567"]
+    },
+    {
+      "source": "Chen Wei Resume.pdf",
+      "id": "hr_3",
+      "type": "PII",
+      "question": "From which university did Chen Wei graduate?",
+      "answer": "Tsinghua University",
+      "difficulty": "medium",
+      "exact_match": ["Tsinghua", "University"]
+    },
+    {
+      "source": "Chen Wei Resume.pdf",
+      "id": "hr_4",
+      "type": "PII",
+      "question": "In what year did Chen Wei complete their undergraduate education?",
+      "answer": "2013",
+      "difficulty": "medium",
+      "exact_match": ["2013"]
+    },
+    {
+      "source": "Chen Wei Resume.pdf",
+      "id": "hr_5",
+      "type": "Experience",
+      "question": "What percentage improvement in battery life did Chen Wei achieve at Xiaomi Corporation?",
+      "answer": "15%",
+      "difficulty": "medium",
+      "exact_match": ["15%"]
+    },
+    {
+      "source": "Chen Wei Resume.pdf",
+      "id": "hr_6",
+      "type": "Experience",
+      "question": "Which architecture did Chen Wei focus on enabling software stacks for at OrionArc?",
+      "answer": "RISC-V",
+      "difficulty": "medium",
+      "exact_match": ["RISC-V"]
+    },
+    {
+      "source": "Chen Wei Resume.pdf",
+      "id": "hr_7",
+      "type": "Skills",
+      "question": "Name three operating systems Chen Wei has experience with.",
+      "answer": "Embedded Linux, Android, Real-Time Operating Systems",
+      "difficulty": "hard",
+      "exact_match": ["Embedded Linux", "Android", "Real-Time Operating Systems"]
+    },
+    {
+      "source": "Chen Wei Resume.pdf",
+      "id": "hr_8",
+      "type": "Experience",
+      "question": "By what percentage did Chen Wei reduce boot time for RISC-V SoCs at OrionArc?",
+      "answer": "35%",
+      "difficulty": "hard",
+      "exact_match": ["35%"]
+    },
+    {
+      "source": "Chen Wei Resume.pdf",
+      "id": "hr_9",
+      "type": "Experience",
+      "question": "What throughput improvement did Chen Wei achieve at Huawei Technologies?",
+      "answer": "20%",
+      "difficulty": "hard",
+      "exact_match": ["20%"]
+    },
+    {
+      "source": "Chen Wei Resume.pdf",
+      "id": "hr_10",
+      "type": "Languages",
+      "question": "What languages does Chen Wei speak, and at what proficiency levels?",
+      "answer": "Mandarin (Native), English (Fluent)",
+      "difficulty": "medium",
+      "exact_match": ["Mandarin", "Native", "English", "Fluent"]
+    },
+    {
+      "source": "Dr Alistair Finch.pdf",
+      "id": "hr_11",
+      "type": "PII",
+      "question": "What is Dr. Alistair Finch's email address?",
+      "answer": "alistair.finch@email.com",
+      "difficulty": "easy",
+      "exact_match": ["alistair.finch@email.com"]
+    },
+    {
+      "source": "Dr Alistair Finch.pdf",
+      "id": "hr_12",
+      "type": "PII",
+      "question": "What is Dr. Alistair Finch's phone number?",
+      "answer": "+44 (0)7122 454443",
+      "difficulty": "easy",
+      "exact_match": ["+44 (0)7122 454443"]
+    },
+    {
+      "source": "Dr Alistair Finch.pdf",
+      "id": "hr_13",
+      "type": "PII",
+      "question": "From which university did Dr. Alistair Finch obtain his PhD?",
+      "answer": "University of Cambridge",
+      "difficulty": "medium",
+      "exact_match": ["University", "of", "Cambridge"]
+    },
+    {
+      "source": "Dr Alistair Finch.pdf",
+      "id": "hr_14",
+      "type": "PII",
+      "question": "In what year did Dr. Alistair Finch complete his PhD?",
+      "answer": "2008",
+      "difficulty": "medium",
+      "exact_match": ["2008"]
+    },
+    {
+      "source": "Dr Alistair Finch.pdf",
+      "id": "hr_15",
+      "type": "Experience",
+      "question": "What power efficiency improvement did Dr. Finch achieve at OrionArc?",
+      "answer": "30%",
+      "difficulty": "medium",
+      "exact_match": ["30%"]
+    },
+    {
+      "source": "Dr Alistair Finch.pdf",
+      "id": "hr_16",
+      "type": "Experience",
+      "question": "What was the title of Dr. Finch's PhD dissertation?",
+      "answer": "Adaptive Microarchitectural Techniques for Energy-Efficient Processor Design",
+      "difficulty": "hard",
+      "exact_match": ["Adaptive", "Microarchitectural", "Techniques", "Energy-Efficient", "Processor", "Design"]
+    },
+    {
+      "source": "Dr Alistair Finch.pdf",
+      "id": "hr_17",
+      "type": "Experience",
+      "question": "Which company did Dr. Finch work for before joining OrionArc?",
+      "answer": "ARM Holdings",
+      "difficulty": "medium",
+      "exact_match": ["ARM", "Holdings"]
+    },
+    {
+      "source": "Dr Alistair Finch.pdf",
+      "id": "hr_18",
+      "type": "Skills",
+      "question": "Name two hardware languages Dr. Finch is proficient in.",
+      "answer": "Verilog, SystemVerilog",
+      "difficulty": "medium",
+      "exact_match": ["Verilog", "SystemVerilog"]
+    },
+    {
+      "source": "Dr Alistair Finch.pdf",
+      "id": "hr_19",
+      "type": "Experience",
+      "question": "What types of markets did Dr. Finch target with RISC CPU cores at OrionArc?",
+      "answer": "Data center and embedded markets",
+      "difficulty": "hard",
+      "exact_match": ["data center", "embedded", "markets"]
+    },
+    {
+      "source": "Dr Alistair Finch.pdf",
+      "id": "hr_20",
+      "type": "Skills",
+      "question": "What microarchitectural concepts does Dr. Finch have expertise in?",
+      "answer": "Superscalar Design, Branch Prediction, Out-of-Order Execution",
+      "difficulty": "hard",
+      "exact_match": ["Superscalar Design", "Branch Prediction", "Out-of-Order Execution"]
+    },
+    {
+      "source": "Emma Nielsen - Resume.pdf",
+      "id": "hr_21",
+      "type": "PII",
+      "question": "What is Emma Nielsen's email address?",
+      "answer": "emma.nielsen.dk@gmail.com",
+      "difficulty": "easy",
+      "exact_match": ["emma.nielsen.dk@gmail.com"]
+    },
+    {
+      "source": "Emma Nielsen - Resume.pdf",
+      "id": "hr_22",
+      "type": "PII",
+      "question": "What is Emma Nielsen's phone number?",
+      "answer": "+45 20 45 67 89",
+      "difficulty": "easy",
+      "exact_match": ["+45", "20", "45", "67", "89"]
+    },
+    {
+      "source": "Emma Nielsen - Resume.pdf",
+      "id": "hr_23",
+      "type": "PII",
+      "question": "Where did Emma Nielsen complete her Master's degree?",
+      "answer": "Copenhagen Business School",
+      "difficulty": "medium",
+      "exact_match": ["Copenhagen", "Business", "School"]
+    },
+    {
+      "source": "Emma Nielsen - Resume.pdf",
+      "id": "hr_24",
+      "type": "PII",
+      "question": "In what years did Emma Nielsen attend Copenhagen Business School?",
+      "answer": "2011 – 2013",
+      "difficulty": "medium",
+      "exact_match": ["2011", "2013"]
+    },
+    {
+      "source": "Emma Nielsen - Resume.pdf",
+      "id": "hr_25",
+      "type": "Experience",
+      "question": "What was the size of the annual budget Emma Nielsen managed at Maersk?",
+      "answer": "DKK 1 billion",
+      "difficulty": "medium",
+      "exact_match": ["DKK", "1", "billion"]
+    },
+    {
+      "source": "Emma Nielsen - Resume.pdf",
+      "id": "hr_26",
+      "type": "Experience",
+      "question": "By what percentage did Emma Nielsen reduce operational expenses at Maersk?",
+      "answer": "5%",
+      "difficulty": "medium",
+      "exact_match": ["5%"]
+    },
+    {
+      "source": "Emma Nielsen - Resume.pdf",
+      "id": "hr_27",
+      "type": "Experience",
+      "question": "What was the reduction in monthly close cycle that Emma Nielsen achieved?",
+      "answer": "30%",
+      "difficulty": "hard",
+      "exact_match": ["30%"]
+    },
+    {
+      "source": "Emma Nielsen - Resume.pdf",
+      "id": "hr_28",
+      "type": "Skills",
+      "question": "What data visualization tool did Emma Nielsen use to create KPI dashboards?",
+      "answer": "Power BI",
+      "difficulty": "medium",
+      "exact_match": ["Power", "BI"]
+    },
+    {
+      "source": "Emma Nielsen - Resume.pdf",
+      "id": "hr_29",
+      "type": "Certifications",
+      "question": "What ESG-related certification does Emma Nielsen hold?",
+      "answer": "Certificate in ESG Investing",
+      "difficulty": "hard",
+      "exact_match": ["Certificate", "ESG", "Investing"]
+    },
+    {
+      "source": "Emma Nielsen - Resume.pdf",
+      "id": "hr_30",
+      "type": "Languages",
+      "question": "What languages does Emma Nielsen speak, and at what proficiency levels?",
+      "answer": "Danish (Native), English (Fluent), German (Professional Proficiency)",
+      "difficulty": "hard",
+      "exact_match": ["Danish", "Native", "English", "Fluent", "German", "Professional Proficiency"]
+    },
+    {
+        "source": "Isabelle Dubois Resume.pdf",
+        "id": "hr_31",
+        "type": "PII",
+        "question": "What is Isabelle Dubois's email address?",
+        "answer": "isabelle.dubois@gmail.com",
+        "difficulty": "easy",
+        "exact_match": ["isabelle.dubois@gmail.com"]
+    },
+    {
+        "source": "Isabelle Dubois Resume.pdf",
+        "id": "hr_32",
+        "type": "PII",
+        "question": "What is Isabelle Dubois's phone number?",
+        "answer": "+33 6 12 34 56 78",
+        "difficulty": "easy",
+        "exact_match": ["+33 6 12 34 56 78"]
+    },
+    {
+        "source": "Isabelle Dubois Resume.pdf",
+        "id": "hr_33",
+        "type": "PII",
+        "question": "What year did Isabelle Dubois graduate with her MBA?",
+        "answer": "2014",
+        "difficulty": "medium",
+        "exact_match": ["2014"]
+    },
+    {
+        "source": "Isabelle Dubois Resume.pdf",
+        "id": "hr_34",
+        "type": "PII",
+        "question": "In which institution did Isabelle Dubois earn her MBA?",
+        "answer": "INSEAD",
+        "difficulty": "medium",
+        "exact_match": ["INSEAD"]
+    },
+    {
+        "source": "Isabelle Dubois Resume.pdf",
+        "id": "hr_35",
+        "type": "Experience",
+        "question": "What is the total value of strategic partnership deals spearheaded by Isabelle across 12 countries?",
+        "answer": "€75M",
+        "difficulty": "medium",
+        "exact_match": ["€75M"]
+    },
+    {
+        "source": "Isabelle Dubois Resume.pdf",
+        "id": "hr_36",
+        "type": "Experience",
+        "question": "How many years of experience does Isabelle Dubois have in the semiconductor and technology industries?",
+        "answer": "17+",
+        "difficulty": "easy",
+        "exact_match": ["17+"]
+    },
+    {
+        "source": "Isabelle Dubois Resume.pdf",
+        "id": "hr_37",
+        "type": "Experience",
+        "question": "By what percentage did Isabelle's client retention strategy improve customer relationships?",
+        "answer": "35%",
+        "difficulty": "medium",
+        "exact_match": ["35%"]
+    },
+    {
+        "source": "Isabelle Dubois Resume.pdf",
+        "id": "hr_38",
+        "type": "Experience",
+        "question": "By what factor did Isabelle increase regional revenue within six years?",
+        "answer": "4x",
+        "difficulty": "hard",
+        "exact_match": ["4x"]
+    },
+    {
+        "source": "Isabelle Dubois Resume.pdf",
+        "id": "hr_39",
+        "type": "Experience",
+        "question": "How many product marketing specialists did Isabelle manage at ST Microelectronics?",
+        "answer": "5",
+        "difficulty": "medium",
+        "exact_match": ["5"]
+    },
+    {
+        "source": "Isabelle Dubois Resume.pdf",
+        "id": "hr_40",
+        "type": "Compensation",
+        "question": "What is Isabelle Dubois's salary expectation?",
+        "answer": "EUR 130,000 per annum + Commission",
+        "difficulty": "hard",
+        "exact_match": ["EUR 130,000 per annum + Commission"]
+    },
+    {
+        "source": "Kenji Tanaka - Robotics Engineer Resume.pdf",
+        "id": "hr_41",
+        "type": "PII",
+        "question": "What is Kenji Tanaka's phone number?",
+        "answer": "+81 3-1234-5678",
+        "difficulty": "easy",
+        "exact_match": ["+81 3-1234-5678"]
+    },
+    {
+        "source": "Kenji Tanaka - Robotics Engineer Resume.pdf",
+        "id": "hr_42",
+        "type": "PII",
+        "question": "What is Kenji Tanaka's email address?",
+        "answer": "kenji.t@example.com",
+        "difficulty": "easy",
+        "exact_match": ["kenji.t@example.com"]
+    },
+    {
+        "source": "Kenji Tanaka - Robotics Engineer Resume.pdf",
+        "id": "hr_43",
+        "type": "PII",
+        "question": "What university did Kenji Tanaka attend?",
+        "answer": "Tokyo Institute of Technology",
+        "difficulty": "medium",
+        "exact_match": ["Tokyo Institute of Technology"]
+    },
+    {
+        "source": "Kenji Tanaka - Robotics Engineer Resume.pdf",
+        "id": "hr_44",
+        "type": "PII",
+        "question": "What degree did Kenji Tanaka earn and when did he graduate?",
+        "answer": "Bachelor of Engineering in Robotics, June 2016",
+        "difficulty": "medium",
+        "exact_match": ["Bachelor of Engineering in Robotics", "June 2016"]
+    },
+    {
+        "source": "Kenji Tanaka - Robotics Engineer Resume.pdf",
+        "id": "hr_45",
+        "type": "Experience",
+        "question": "By what percentage did Kenji reduce customer integration time through modular diagnostic tools?",
+        "answer": "30%",
+        "difficulty": "medium",
+        "exact_match": ["30%"]
+    },
+    {
+        "source": "Kenji Tanaka - Robotics Engineer Resume.pdf",
+        "id": "hr_46",
+        "type": "Experience",
+        "question": "How many Fortune 500 clients did Kenji lead technical onboarding for in the Asia-Pacific region?",
+        "answer": "three",
+        "difficulty": "medium",
+        "exact_match": ["three"]
+    },
+    {
+        "source": "Kenji Tanaka - Robotics Engineer Resume.pdf",
+        "id": "hr_47",
+        "type": "Experience",
+        "question": "What was the improvement in system efficiency after Kenji resolved critical performance bottlenecks?",
+        "answer": "15%",
+        "difficulty": "hard",
+        "exact_match": ["15%"]
+    },
+    {
+        "source": "Kenji Tanaka - Robotics Engineer Resume.pdf",
+        "id": "hr_48",
+        "type": "Experience",
+        "question": "What was the percentage improvement in real-time responsiveness that Kenji achieved for a flagship consumer robot?",
+        "answer": "20%",
+        "difficulty": "hard",
+        "exact_match": ["20%"]
+    },
+    {
+        "source": "Kenji Tanaka - Robotics Engineer Resume.pdf",
+        "id": "hr_49",
+        "type": "Experience",
+        "question": "By what percentage did Kenji reduce the memory footprint in a high-volume industrial robot controller?",
+        "answer": "10%",
+        "difficulty": "medium",
+        "exact_match": ["10%"]
+    },
+    {
+        "source": "Kenji Tanaka - Robotics Engineer Resume.pdf",
+        "id": "hr_50",
+        "type": "Skills",
+        "question": "What robotics middleware platforms does Kenji have expertise in?",
+        "answer": "ROS, ROS2, DDS",
+        "difficulty": "hard",
+        "exact_match": ["ROS", "ROS2", "DDS"]
+    },
+    {
+        "source": "Maria Garcia - Resume.pdf",
+        "id": "hr_51",
+        "type": "PII",
+        "question": "What is Maria Garcia's email address?",
+        "answer": "maria.garcia@email.com",
+        "difficulty": "easy",
+        "exact_match": ["maria.garcia@email.com"]
+    },
+    {
+        "source": "Maria Garcia - Resume.pdf",
+        "id": "hr_52",
+        "type": "PII",
+        "question": "What is Maria Garcia's phone number?",
+        "answer": "(408) 555-1234",
+        "difficulty": "easy",
+        "exact_match": ["(408) 555-1234"]
+    },
+    {
+        "source": "Maria Garcia - Resume.pdf",
+        "id": "hr_53",
+        "type": "PII",
+        "question": "From which university did Maria Garcia obtain her Master's degree?",
+        "answer": "Stanford University",
+        "difficulty": "medium",
+        "exact_match": ["Stanford University"]
+    },
+    {
+        "source": "Maria Garcia - Resume.pdf",
+        "id": "hr_54",
+        "type": "PII",
+        "question": "In what year did Maria Garcia graduate with her Master of Science?",
+        "answer": "2002",
+        "difficulty": "medium",
+        "exact_match": ["2002"]
+    },
+    {
+        "source": "Maria Garcia - Resume.pdf",
+        "id": "hr_55",
+        "type": "Experience",
+        "question": "What percentage reduction in operational costs did Maria achieve through supply chain overhaul?",
+        "answer": "18%",
+        "difficulty": "medium",
+        "exact_match": ["18%"]
+    },
+    {
+        "source": "Maria Garcia - Resume.pdf",
+        "id": "hr_56",
+        "type": "Experience",
+        "question": "How many years did Maria Garcia work at Broadcom Inc.?",
+        "answer": "8",
+        "difficulty": "medium",
+        "exact_match": ["2012 – 2020"]
+    },
+    {
+        "source": "Maria Garcia - Resume.pdf",
+        "id": "hr_57",
+        "type": "Experience",
+        "question": "What was Maria's role at Intel Corporation?",
+        "answer": "Supply Chain Program Manager",
+        "difficulty": "easy",
+        "exact_match": ["Supply Chain Program Manager"]
+    },
+    {
+        "source": "Maria Garcia - Resume.pdf",
+        "id": "hr_58",
+        "type": "Experience",
+        "question": "How much annual savings did Maria deliver at Intel through optimization of planning and supplier coordination?",
+        "answer": "$20 million",
+        "difficulty": "hard",
+        "exact_match": ["$20 million"]
+    },
+    {
+        "source": "Maria Garcia - Resume.pdf",
+        "id": "hr_59",
+        "type": "Languages",
+        "question": "What languages does Maria Garcia speak fluently?",
+        "answer": "English and Spanish",
+        "difficulty": "easy",
+        "exact_match": ["English", "Spanish"]
+    },
+    {
+        "source": "Maria Garcia - Resume.pdf",
+        "id": "hr_60",
+        "type": "Compensation",
+        "question": "What is Maria Garcia's target compensation?",
+        "answer": "USD 280,000 per annum, plus bonus",
+        "difficulty": "hard",
+        "exact_match": ["USD 280,000 per annum", "plus bonus"]
+    },
+    {
+        "source": "Resume - David Lee.pdf",
+        "id": "hr_61",
+        "type": "PII",
+        "question": "What is David Lee's email address?",
+        "answer": "david.lee@email.com",
+        "difficulty": "easy",
+        "exact_match": ["david.lee@email.com"]
+    },
+    {
+        "source": "Resume - David Lee.pdf",
+        "id": "hr_62",
+        "type": "PII",
+        "question": "What is David Lee's phone number?",
+        "answer": "+60-12-345-6789",
+        "difficulty": "easy",
+        "exact_match": ["+60-12-345-6789"]
+    },
+    {
+        "source": "Resume - David Lee.pdf",
+        "id": "hr_63",
+        "type": "PII",
+        "question": "Where did David Lee complete his education?",
+        "answer": "Nanyang Technological University",
+        "difficulty": "medium",
+        "exact_match": ["Nanyang Technological University"]
+    },
+    {
+        "source": "Resume - David Lee.pdf",
+        "id": "hr_64",
+        "type": "PII",
+        "question": "In what year did David Lee graduate from university?",
+        "answer": "2018",
+        "difficulty": "medium",
+        "exact_match": ["2018"]
+    },
+    {
+        "source": "Resume - David Lee.pdf",
+        "id": "hr_65",
+        "type": "Experience",
+        "question": "What percentage improvement in forecast accuracy did David achieve at OrionArc?",
+        "answer": "15%",
+        "difficulty": "medium",
+        "exact_match": ["15%"]
+    },
+    {
+        "source": "Resume - David Lee.pdf",
+        "id": "hr_66",
+        "type": "Experience",
+        "question": "How many hours per month did David's automation of reporting packages save?",
+        "answer": "20+ hours",
+        "difficulty": "hard",
+        "exact_match": ["20+ hours"]
+    },
+    {
+        "source": "Resume - David Lee.pdf",
+        "id": "hr_67",
+        "type": "Skills",
+        "question": "Which visualization tools is David proficient in?",
+        "answer": "Tableau, PowerBI",
+        "difficulty": "medium",
+        "exact_match": ["Tableau", "PowerBI"]
+    },
+    {
+        "source": "Resume - David Lee.pdf",
+        "id": "hr_68",
+        "type": "Employment",
+        "question": "What was David's role at Ernst & Young?",
+        "answer": "Audit Associate",
+        "difficulty": "easy",
+        "exact_match": ["Audit Associate"]
+    },
+    {
+        "source": "Resume - David Lee.pdf",
+        "id": "hr_69",
+        "type": "Experience",
+        "question": "By what percentage did David reduce audit cycle time at Ernst & Young?",
+        "answer": "15%",
+        "difficulty": "hard",
+        "exact_match": ["15%"]
+    },
+    {
+        "source": "Resume - David Lee.pdf",
+        "id": "hr_70",
+        "type": "Compensation",
+        "question": "What is David Lee's salary expectation?",
+        "answer": "SGD 95,000 per annum",
+        "difficulty": "medium",
+        "exact_match": ["SGD 95,000 per annum"]
+    },
+    {
+        "source": "Resume - Fatima Al-Mansouri.pdf",
+        "id": "hr_71",
+        "type": "PII",
+        "question": "Where is Fatima Al-Mansouri located?",
+        "answer": "Dubai, UAE",
+        "difficulty": "easy",
+        "exact_match": ["Dubai, UAE"]
+    },
+    {
+        "source": "Resume - Fatima Al-Mansouri.pdf",
+        "id": "hr_72",
+        "type": "PII",
+        "question": "What degree does Fatima Al-Mansouri hold?",
+        "answer": "Master in Human Resource Management",
+        "difficulty": "medium",
+        "exact_match": ["Master in Human Resource Management"]
+    },
+    {
+        "source": "Resume - Fatima Al-Mansouri.pdf",
+        "id": "hr_73",
+        "type": "PII",
+        "question": "Which university did Fatima graduate from?",
+        "answer": "American University of Sharjah",
+        "difficulty": "medium",
+        "exact_match": ["American University of Sharjah"]
+    },
+    {
+        "source": "Resume - Fatima Al-Mansouri.pdf",
+        "id": "hr_74",
+        "type": "PII",
+        "question": "In what year did Fatima complete her Master's degree?",
+        "answer": "2015",
+        "difficulty": "medium",
+        "exact_match": ["2015"]
+    },
+    {
+        "source": "Resume - Fatima Al-Mansouri.pdf",
+        "id": "hr_75",
+        "type": "Experience",
+        "question": "How many HR professionals does Fatima manage at Emaar Properties?",
+        "answer": "5",
+        "difficulty": "medium",
+        "exact_match": ["5"]
+    },
+    {
+        "source": "Resume - Fatima Al-Mansouri.pdf",
+        "id": "hr_76",
+        "type": "Experience",
+        "question": "What was the percentage decrease in employee turnover that Fatima achieved?",
+        "answer": "15%",
+        "difficulty": "medium",
+        "exact_match": ["15%"]
+    },
+    {
+        "source": "Resume - Fatima Al-Mansouri.pdf",
+        "id": "hr_77",
+        "type": "Employment",
+        "question": "At which company did Fatima work as a Learning & Development Specialist?",
+        "answer": "Emirates NBD",
+        "difficulty": "easy",
+        "exact_match": ["Emirates NBD"]
+    },
+    {
+        "source": "Resume - Fatima Al-Mansouri.pdf",
+        "id": "hr_78",
+        "type": "Experience",
+        "question": "What percentage improvement in employee performance did Fatima achieve through targeted training?",
+        "answer": "25%",
+        "difficulty": "hard",
+        "exact_match": ["25%"]
+    },
+    {
+        "source": "Resume - Fatima Al-Mansouri.pdf",
+        "id": "hr_79",
+        "type": "Skills",
+        "question": "How many languages does Fatima speak?",
+        "answer": "2",
+        "difficulty": "easy",
+        "exact_match": ["Arabic", "English"]
+    },
+    {
+        "source": "Resume - Fatima Al-Mansouri.pdf",
+        "id": "hr_80",
+        "type": "Compensation",
+        "question": "What is Fatima's salary expectation?",
+        "answer": "AED 300,000 per annum",
+        "difficulty": "medium",
+        "exact_match": ["AED 300,000 per annum"]
+    },
+    {
+        "source": "Resume - Priya Sharma - 2025.pdf",
+        "id": "hr_81",
+        "type": "PII",
+        "question": "What is Priya Sharma's email address?",
+        "answer": "priya.sharma@email.com",
+        "difficulty": "easy",
+        "exact_match": ["priya.sharma@email.com"]
+    },
+    {
+        "source": "Resume - Priya Sharma - 2025.pdf",
+        "id": "hr_82",
+        "type": "PII",
+        "question": "What is Priya Sharma's phone number?",
+        "answer": "(512) 555-2656",
+        "difficulty": "easy",
+        "exact_match": ["(512) 555-2656"]
+    },
+    {
+        "source": "Resume - Priya Sharma - 2025.pdf",
+        "id": "hr_83",
+        "type": "PII",
+        "question": "Where did Priya Sharma earn her Master's degree?",
+        "answer": "University of Texas at Austin",
+        "difficulty": "medium",
+        "exact_match": ["University of Texas at Austin"]
+    },
+    {
+        "source": "Resume - Priya Sharma - 2025.pdf",
+        "id": "hr_84",
+        "type": "PII",
+        "question": "In what year did Priya complete her Master's degree?",
+        "answer": "2011",
+        "difficulty": "medium",
+        "exact_match": ["2011"]
+    },
+    {
+        "source": "Resume - Priya Sharma - 2025.pdf",
+        "id": "hr_85",
+        "type": "Experience",
+        "question": "How many members were in the cross-functional team that Priya led at OrionArc?",
+        "answer": "12",
+        "difficulty": "medium",
+        "exact_match": ["12"]
+    },
+    {
+        "source": "Resume - Priya Sharma - 2025.pdf",
+        "id": "hr_86",
+        "type": "Experience",
+        "question": "By what percentage did Priya improve performance-per-watt in her AI accelerator chip design?",
+        "answer": "30%",
+        "difficulty": "hard",
+        "exact_match": ["30%"]
+    },
+    {
+        "source": "Resume - Priya Sharma - 2025.pdf",
+        "id": "hr_87",
+        "type": "Skills",
+        "question": "How many patents did Priya co-author while at Qualcomm?",
+        "answer": "5",
+        "difficulty": "medium",
+        "exact_match": ["5"]
+    },
+    {
+        "source": "Resume - Priya Sharma - 2025.pdf",
+        "id": "hr_88",
+        "type": "Employment",
+        "question": "What was Priya's job title at NXP Semiconductors?",
+        "answer": "SoC Design Engineer",
+        "difficulty": "easy",
+        "exact_match": ["SoC Design Engineer"]
+    },
+    {
+        "source": "Resume - Priya Sharma - 2025.pdf",
+        "id": "hr_89",
+        "type": "Experience",
+        "question": "By what percentage did Priya reduce power consumption through custom dynamic voltage scaling?",
+        "answer": "25%",
+        "difficulty": "hard",
+        "exact_match": ["25%"]
+    },
+    {
+        "source": "Resume - Priya Sharma - 2025.pdf",
+        "id": "hr_90",
+        "type": "Compensation",
+        "question": "What is Priya Sharma's salary expectation?",
+        "answer": "USD 220,000 per annum",
+        "difficulty": "medium",
+        "exact_match": ["USD 220,000 per annum"]
+    },
+    {
+        "source": "Wong Mei Lin - Resume - 2025.pdf",
+        "id": "hr_91",
+        "type": "PII",
+        "question": "What is Mei Lin Wong's email address?",
+        "answer": "meilin.wong.sg@gmail.com",
+        "difficulty": "easy",
+        "exact_match": ["meilin.wong.sg@gmail.com"]
+    },
+    {
+        "source": "Wong Mei Lin - Resume - 2025.pdf",
+        "id": "hr_92",
+        "type": "PII",
+        "question": "What is Mei Lin Wong's phone number?",
+        "answer": "+65 9123 4567",
+        "difficulty": "easy",
+        "exact_match": ["+65 9123 4567"]
+    },
+    {
+        "source": "Wong Mei Lin - Resume - 2025.pdf",
+        "id": "hr_93",
+        "type": "PII",
+        "question": "Where did Mei Lin Wong complete her Master's degree?",
+        "answer": "National University of Singapore",
+        "difficulty": "medium",
+        "exact_match": ["National University of Singapore"]
+    },
+    {
+        "source": "Wong Mei Lin - Resume - 2025.pdf",
+        "id": "hr_94",
+        "type": "PII",
+        "question": "In what year did Mei Lin Wong complete her Master's degree?",
+        "answer": "2015",
+        "difficulty": "medium",
+        "exact_match": ["2015"]
+    },
+    {
+        "source": "Wong Mei Lin - Resume - 2025.pdf",
+        "id": "hr_95",
+        "type": "Experience",
+        "question": "How many analysts did Mei Lin lead at OCBC Bank?",
+        "answer": "4",
+        "difficulty": "medium",
+        "exact_match": ["4"]
+    },
+    {
+        "source": "Wong Mei Lin - Resume - 2025.pdf",
+        "id": "hr_96",
+        "type": "Experience",
+        "question": "By what percentage did Mei Lin reduce reporting turnaround time at OCBC?",
+        "answer": "20%",
+        "difficulty": "medium",
+        "exact_match": ["20%"]
+    },
+    {
+        "source": "Wong Mei Lin - Resume - 2025.pdf",
+        "id": "hr_97",
+        "type": "Achievement",
+        "question": "What award did Mei Lin receive at OCBC Bank and in what year?",
+        "answer": "OCBC Excellence Award in 2021",
+        "difficulty": "hard",
+        "exact_match": ["OCBC Excellence Award", "2021"]
+    },
+    {
+        "source": "Wong Mei Lin - Resume - 2025.pdf",
+        "id": "hr_98",
+        "type": "Employment",
+        "question": "What was Mei Lin's role at DBS Bank?",
+        "answer": "Senior Financial Analyst",
+        "difficulty": "easy",
+        "exact_match": ["Senior Financial Analyst"]
+    },
+    {
+        "source": "Wong Mei Lin - Resume - 2025.pdf",
+        "id": "hr_99",
+        "type": "Experience",
+        "question": "How much in annual savings did Mei Lin identify at DBS Bank?",
+        "answer": "SGD 1.2M",
+        "difficulty": "hard",
+        "exact_match": ["SGD 1.2M"]
+    },
+    {
+        "source": "Wong Mei Lin - Resume - 2025.pdf",
+        "id": "hr_100",
+        "type": "Compensation",
+        "question": "What is Mei Lin Wong's salary expectation?",
+        "answer": "SGD 110,000 per annum",
+        "difficulty": "medium",
+        "exact_match": ["SGD 110,000 per annum"]
+    }   
+]

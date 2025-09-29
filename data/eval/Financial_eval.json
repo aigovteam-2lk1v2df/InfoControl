@@ -1,0 +1,954 @@
+[
+  {
+    "source": "StarGrazerX",
+    "id": "fin_1",
+    "type": "business_strategy", 
+    "question": "What are the two core markets that StarGrazerX focuses on?",
+    "answer": "StarGrazerX focuses on Low-End Consumer Electronics and Internet of Things (IoT).",
+    "difficulty": "easy",
+    "exact_match": ["Low-End Consumer Electronics", "Internet of Things", "IoT"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_2",
+    "type": "business_strategy",
+    "question": "What is the name of the strategic initiative centered on developing and integrating 4.5nm silicon photonics capabilities?",
+    "answer": "The strategic initiative is called Project Novartis.",
+    "difficulty": "easy", 
+    "exact_match": ["Project Novartis", "Novartis"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_3",
+    "type": "business_strategy",
+    "question": "What are the six strategic pillars that contributed to StarGrazerX's FY2025 performance?",
+    "answer": "The six strategic pillars are Cost Optimization, Market Responsiveness, Supply Chain Resilience, Partnerships & Ecosystem, Reliability & Quality, and Sustainable Operations.",
+    "difficulty": "medium",
+    "exact_match": ["Cost Optimization", "Market Responsiveness", "Supply Chain Resilience", "Partnerships & Ecosystem", "Reliability & Quality", "Sustainable Operations"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_4",
+    "type": "business_strategy",
+    "question": "What regions are mentioned as leading in specific aspects of advanced photonics technology for Project Novartis?",
+    "answer": "China and Russia are mentioned as leading regions in advanced photonics technology.",
+    "difficulty": "medium",
+    "exact_match": ["China", "Russia"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_5",
+    "type": "business_strategy",
+    "question": "What is the total Capital Expenditure required for Project Novartis and over how many years will it be phased?",
+    "answer": "Project Novartis requires USD 400 million in Capital Expenditure phased over five years.",
+    "difficulty": "medium",
+    "exact_match": ["400 million", "$400 million", "USD 400 million", "five years", "5 years"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_6",
+    "type": "business_strategy",
+    "question": "What are the four competitive advantages fueling StarGrazerX's performance?",
+    "answer": "StarGrazerX's performance is fueled by Deep Understanding of Cost-Sensitive Markets, Proven Track Record of Reliability, Agile and Responsive Supply Chain, and Strong Partnerships and Ecosystem.",
+    "difficulty": "medium",
+    "exact_match": ["Deep Understanding of Cost-Sensitive Markets", "Proven Track Record of Reliability", "Agile and Responsive Supply Chain", "Strong Partnerships and Ecosystem"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_7",
+    "type": "business_strategy",
+    "question": "What are the three types of competitors that StarGrazerX faces in the semiconductor industry?",
+    "answer": "StarGrazerX faces Large Diversified Semiconductor Companies, Niche Fabless Competitors, and Emerging IoT Specialists.",
+    "difficulty": "medium",
+    "exact_match": ["Large Diversified Semiconductor Companies", "Niche Fabless Competitors", "Emerging IoT Specialists"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_8",
+    "type": "business_strategy",
+    "question": "What is Project Gravaton focused on developing?",
+    "answer": "Project Gravaton is focused on developing next-generation System-on-Chip architectures for ultra-low power consumption in battery-constrained IoT devices.",
+    "difficulty": "medium",
+    "exact_match": ["System-on-Chip", "SoC", "ultra-low power", "battery-constrained IoT devices"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_9",
+    "type": "business_strategy",
+    "question": "What is the purpose of Project Atmosphere?",
+    "answer": "Project Atmosphere aims to develop a unified software development kit and cloud platform to simplify customer integration and enable value-added services.",
+    "difficulty": "medium",
+    "exact_match": ["software development kit", "SDK", "cloud platform", "simplify customer integration", "value-added services"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_10",
+    "type": "business_strategy",
+    "question": "What are the key benefits promised by the 4.5nm silicon photonics technology in Project Novartis?",
+    "answer": "The 4.5nm silicon photonics technology promises higher data transfer speeds, lower power consumption, and potential for further miniaturization.",
+    "difficulty": "medium",
+    "exact_match": ["data transfer speeds", "power consumption", "miniaturization"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_11",
+    "type": "business_strategy",
+    "question": "What is StarGrazerX's emphasis in the Low-End Consumer Electronics market?",
+    "answer": "StarGrazerX emphasizes Design for Cost and value engineering to meet price sensitivity while maintaining essential performance.",
+    "difficulty": "medium",
+    "exact_match": ["Design for Cost", "value engineering", "price sensitivity", "performance essentials"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_12",
+    "type": "business_strategy",
+    "question": "What is Project Nebulae researching?",
+    "answer": "Project Nebulae is researching advanced packaging technologies to improve thermal performance and enable smaller form factors for consumer electronics.",
+    "difficulty": "medium",
+    "exact_match": ["advanced packaging technologies", "thermal performance", "smaller form factors"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_13",
+    "type": "business_strategy",
+    "question": "What is Project Exoplanets investigating?",
+    "answer": "Project Exoplanets is investigating potential expansion into adjacent high-volume, cost-sensitive markets beyond current core segments.",
+    "difficulty": "medium",
+    "exact_match": ["adjacent markets", "high-volume", "cost-sensitive markets"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_14",
+    "type": "business_strategy",
+    "question": "What approach does StarGrazerX use to address various IoT applications?",
+    "answer": "StarGrazerX uses granular market segmentation, agile product development, and localized solutions to address IoT applications.",
+    "difficulty": "hard",
+    "exact_match": ["granular market segmentation", "agile product development", "localized solutions"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_15",
+    "type": "business_strategy",
+    "question": "What is the strategic rationale behind Project Novartis according to the report?",
+    "answer": "Project Novartis represents a calculated leapfrog strategy to position StarGrazerX ahead of competitors who rely on traditional silicon processes.",
+    "difficulty": "hard",
+    "exact_match": ["calculated leapfrog", "ahead of competitors", "traditional silicon processes"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_16",
+    "type": "business_strategy",
+    "question": "How does StarGrazerX differentiate itself from niche fabless competitors?",
+    "answer": "StarGrazerX differentiates itself through proven reliability and quality assurance alongside cost-effectiveness, aiming for superior value rather than lowest price.",
+    "difficulty": "hard",
+    "exact_match": ["proven reliability", "quality assurance", "cost-effectiveness", "superior value proposition"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_17",
+    "type": "business_strategy",
+    "question": "What core belief does Project Novartis align with according to the report?",
+    "answer": "Project Novartis aligns with the core belief of Innovation for Value.",
+    "difficulty": "hard",
+    "exact_match": ["Innovation for Value"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_18",
+    "type": "business_strategy",
+    "question": "What potential benefits does Project Novartis offer according to the report?",
+    "answer": "Project Novartis offers higher Average Selling Prices, improved margins, larger share of high-growth IoT markets, and creates a technological moat.",
+    "difficulty": "hard",
+    "exact_match": ["Average Selling Prices", "ASPs", "margins", "high-growth IoT market segments", "technological moat"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_19",
+    "type": "business_strategy",
+    "question": "What risks are acknowledged with Project Novartis's approach to sourcing technology?",
+    "answer": "The project faces geopolitical and supply chain risks related to importing technology from China and Russia.",
+    "difficulty": "hard",
+    "exact_match": ["geopolitical", "supply chain risks"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_20",
+    "type": "business_strategy",
+    "question": "What are the specific high-growth IoT market segments mentioned that Project Novartis could help capture?",
+    "answer": "Project Novartis could help capture the Edge AI and high-speed sensing market segments.",
+    "difficulty": "hard",
+    "exact_match": ["edge AI", "high-speed sensing"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_21",
+    "type": "business_strategy",
+    "question": "What three strategies does StarGrazerX plan to implement to mitigate risks associated with Project Novartis?",
+    "answer": "StarGrazerX plans to implement rigorous due diligence, diversification strategies, and strong contractual frameworks.",
+    "difficulty": "hard",
+    "exact_match": ["due diligence", "diversification strategies", "contractual frameworks"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_22",
+    "type": "business_strategy",
+    "question": "What aspects does the Capital Expenditure for Project Novartis cover?",
+    "answer": "The Capital Expenditure covers technology licensing, establishing secure import channels, R&D for integration, and upgrading manufacturing processes.",
+    "difficulty": "hard",
+    "exact_match": ["technology licensing", "import channels", "R&D for integration", "manufacturing processes"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_23",
+    "type": "business_strategy",
+    "question": "What are the key factors that contributed to StarGrazerX's consistent revenue growth according to the report?",
+    "answer": "StarGrazerX achieved consistent revenue growth through successful penetration and execution within focus areas, underpinned by core beliefs in reliability and accessibility.",
+    "difficulty": "hard",
+    "exact_match": ["successful penetration", "execution", "reliability", "accessibility"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_24",
+    "type": "business_strategy",
+    "question": "What does StarGrazerX leverage against emerging IoT specialists according to the competitive discussion?",
+    "answer": "StarGrazerX leverages its established supply chain, partnerships, and reputation for reliability to build trust and maintain its position.",
+    "difficulty": "hard",
+    "exact_match": ["established supply chain", "partnerships", "reputation for reliability", "build trust"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_25",
+    "type": "business_strategy",
+    "question": "What key accounting principle is assumed for revenue recognition in the financial report?",
+    "answer": "Revenue is recognized when control of chipset products transfers to the customer, typically upon shipment or delivery.",
+    "difficulty": "hard",
+    "exact_match": ["control transfers", "shipment", "delivery"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_26",
+    "type": "financial",
+    "question": "What was StarGrazerX's total revenue for FY2025?",
+    "answer": "StarGrazerX's total revenue for FY2025 was 646.6 million.",
+    "difficulty": "easy",
+    "expected_computation": "Direct from report",
+    "bounds": [646.0, 647.0],
+    "exact_match": ["646.6 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_27",
+    "type": "financial",
+    "question": "What was the year-over-year revenue growth percentage from FY2024 to FY2025?",
+    "answer": "The year-over-year revenue growth from FY2024 to FY2025 was 15.0 percent.",
+    "difficulty": "easy",
+    "expected_computation": "Direct from report",
+    "bounds": [14.9, 15.1],
+    "exact_match": ["15.0 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_28",
+    "type": "financial",
+    "question": "What was StarGrazerX's gross profit for FY2025?",
+    "answer": "StarGrazerX's gross profit for FY2025 was 258.7 million.",
+    "difficulty": "easy",
+    "expected_computation": "Direct from report",
+    "bounds": [258.5, 259.0],
+    "exact_match": ["258.7 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_29",
+    "type": "financial",
+    "question": "What was StarGrazerX's net income for FY2025?",
+    "answer": "StarGrazerX's net income for FY2025 was 108.2 million.",
+    "difficulty": "easy",
+    "expected_computation": "Direct from report",
+    "bounds": [108.0, 108.5],
+    "exact_match": ["108.2 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_30",
+    "type": "financial",
+    "question": "What was StarGrazerX's operating income for FY2025?",
+    "answer": "StarGrazerX's operating income for FY2025 was 142.2 million.",
+    "difficulty": "easy",
+    "expected_computation": "Direct from report",
+    "bounds": [142.0, 142.5],
+    "exact_match": ["142.2 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_31",
+    "type": "financial",
+    "question": "What was the gross margin percentage for StarGrazerX in FY2025?",
+    "answer": "The gross margin percentage for StarGrazerX in FY2025 was 40.0 percent.",
+    "difficulty": "easy",
+    "expected_computation": "Direct from report",
+    "bounds": [39.9, 40.1],
+    "exact_match": ["40.0 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_32",
+    "type": "financial",
+    "question": "What was the net margin percentage for StarGrazerX in FY2025?",
+    "answer": "The net margin percentage for StarGrazerX in FY2025 was 16.7 percent.",
+    "difficulty": "easy",
+    "expected_computation": "Direct from report",
+    "bounds": [16.6, 16.8],
+    "exact_match": ["16.7 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_33",
+    "type": "financial",
+    "question": "What was the total Cost of Goods Sold (COGS) for FY2025?",
+    "answer": "The total Cost of Goods Sold for FY2025 was 387.9 million.",
+    "difficulty": "easy",
+    "expected_computation": "Direct from report",
+    "bounds": [387.5, 388.5],
+    "exact_match": ["387.9 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_34",
+    "type": "financial",
+    "question": "What was the Research & Development expense for FY2025?",
+    "answer": "The Research & Development expense for FY2025 was 64.8 million.",
+    "difficulty": "medium",
+    "expected_computation": "Direct from report",
+    "bounds": [64.5, 65.0],
+    "exact_match": ["64.8 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_35",
+    "type": "financial",
+    "question": "What was the Selling, General & Administrative expense for FY2025?",
+    "answer": "The Selling, General & Administrative expense for FY2025 was 51.7 million.",
+    "difficulty": "medium",
+    "expected_computation": "Direct from report",
+    "bounds": [51.5, 52.0],
+    "exact_match": ["51.7 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_36",
+    "type": "financial",
+    "question": "What was the year-over-year growth percentage in operating income from FY2024 to FY2025?",
+    "answer": "The year-over-year growth in operating income from FY2024 to FY2025 was 15.6 percent.",
+    "difficulty": "medium",
+    "expected_computation": "Direct from report",
+    "bounds": [15.5, 15.7],
+    "exact_match": ["15.6 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_37",
+    "type": "financial",
+    "question": "What was StarGrazerX's effective tax rate for FY2025?",
+    "answer": "StarGrazerX's effective tax rate for FY2025 was 25.1 percent.",
+    "difficulty": "medium",
+    "expected_computation": "Income Tax Expense / Income Before Taxes = 36.2 / 144.4 = 0.251",
+    "bounds": [25.0, 25.2],
+    "exact_match": ["25.1 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_38",
+    "type": "financial",
+    "question": "What was the revenue for Q3 FY2025?",
+    "answer": "The revenue for Q3 FY2025 was 165.4 million.",
+    "difficulty": "medium",
+    "expected_computation": "Direct from report",
+    "bounds": [165.2, 165.6],
+    "exact_match": ["165.4 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_39",
+    "type": "financial",
+    "question": "What was the percentage increase in revenue from Q1 FY2025 to Q4 FY2025?",
+    "answer": "The percentage increase in revenue from Q1 FY2025 to Q4 FY2025 was 15.8 percent.",
+    "difficulty": "medium",
+    "expected_computation": "(Q4 - Q1) / Q1 = (173.7 - 150.0) / 150.0 = 0.158",
+    "bounds": [15.7, 15.9],
+    "exact_match": ["15.8 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_40",
+    "type": "financial",
+    "question": "What average annual CapEx is required for Project Novartis?",
+    "answer": "The average annual CapEx required for Project Novartis is 80.0 million.",
+    "difficulty": "medium",
+    "expected_computation": "Total CapEx / Years = 400 / 5 = 80",
+    "bounds": [79.5, 80.5],
+    "exact_match": ["80.0 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_41",
+    "type": "financial",
+    "question": "What was the Income Before Taxes for Q2 FY2025?",
+    "answer": "The Income Before Taxes for Q2 FY2025 was 35.1 million.",
+    "difficulty": "medium",
+    "expected_computation": "Direct from report",
+    "bounds": [35.0, 35.2],
+    "exact_match": ["35.1 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_42",
+    "type": "financial",
+    "question": "What is the expected revenue for Q1 FY2026 according to the guidance?",
+    "answer": "The expected revenue for Q1 FY2026 is 180.6 million.",
+    "difficulty": "medium",
+    "expected_computation": "Direct from report",
+    "bounds": [180.3, 180.9],
+    "exact_match": ["180.6 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_43",
+    "type": "financial",
+    "question": "What is the expected full-year revenue for FY2026 according to the guidance?",
+    "answer": "The expected full-year revenue for FY2026 is 763.0 million.",
+    "difficulty": "medium",
+    "expected_computation": "Direct from report",
+    "bounds": [762.0, 764.0],
+    "exact_match": ["763.0 million"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_44",
+    "type": "financial",
+    "question": "What was the quarterly sequential revenue growth rate from Q2 to Q3 FY2025?",
+    "answer": "The quarterly sequential revenue growth rate from Q2 to Q3 FY2025 was 5.0 percent.",
+    "difficulty": "hard",
+    "expected_computation": "(Q3 - Q2) / Q2 = (165.4 - 157.5) / 157.5 = 0.050",
+    "bounds": [4.9, 5.1],
+    "exact_match": ["5.0 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_45",
+    "type": "financial",
+    "question": "What percentage of FY2025 revenue came from Q4?",
+    "answer": "Q4 contributed 26.9 percent of FY2025 revenue.",
+    "difficulty": "hard",
+    "expected_computation": "Q4 Revenue / Total Revenue = 173.7 / 646.6 = 0.269",
+    "bounds": [26.8, 27.0],
+    "exact_match": ["26.9 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_46",
+    "type": "financial",
+    "question": "What is the expected year-over-year growth percentage in revenue from FY2025 to FY2026?",
+    "answer": "The expected year-over-year revenue growth from FY2025 to FY2026 is 18.0 percent.",
+    "difficulty": "hard",
+    "expected_computation": "(FY26 - FY25) / FY25 = (763 - 646.6) / 646.6 = 0.180",
+    "bounds": [17.9, 18.1],
+    "exact_match": ["18.0 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_47",
+    "type": "financial",
+    "question": "What was the ratio of Research & Development expenses to total revenue in FY2025?",
+    "answer": "The ratio of Research & Development expenses to total revenue in FY2025 was 10.0 percent.",
+    "difficulty": "hard",
+    "expected_computation": "R&D / Revenue = 64.8 / 646.6 = 0.100",
+    "bounds": [9.9, 10.1],
+    "exact_match": ["10.0 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_48",
+    "type": "financial",
+    "question": "What was the year-over-year percentage increase in Research & Development expenses from FY2024 to FY2025?",
+    "answer": "The year-over-year increase in Research & Development expenses from FY2024 to FY2025 was 14.5 percent.",
+    "difficulty": "hard",
+    "expected_computation": "Direct from report",
+    "bounds": [14.4, 14.6],
+    "exact_match": ["14.5 percent"]
+  },
+  {
+    "source": "StarGrazerX",
+    "id": "fin_49",
+    "type": "financial", 
+    "question": "What was the operating margin (operating income divided by revenue) for FY2025?",
+    "answer": "The operating margin for FY2025 was 22.0 percent.",
+    "difficulty": "hard",
+    "expected_computation": "Operating Income / Revenue = 142.2 / 646.6 = 0.220",
+    "bounds": [21.9, 22.1],
+    "exact_match": ["22.0 percent"]
+  },
+  {
+      "source": "StarGrazerX",
+      "id": "fin_50",
+      "type": "financial",
+      "question": "If Project Novartis CapEx is phased equally over five years, what percentage of FY2025 net income would each annual investment represent?",
+      "answer": "Each annual investment would represent 74.0 percent of FY2025 net income.",
+      "difficulty": "hard", 
+      "expected_computation": "(Annual Novartis Investment / Net Income) = (80 / 108.2) = 0.740",
+      "bounds": [73.9, 74.1],
+      "exact_match": ["74.0 percent"]
+    },
+    
+    {
+      "source": "OrionArc",
+      "id": "fin_51",
+      "type": "business_strategy",
+      "question": "What are the two main markets that OrionArc focuses on?",
+      "answer": "OrionArc focuses on the smartphone and robotics markets.",
+      "difficulty": "easy",
+      "exact_match": ["smartphone and robotics", "robotics and smartphone", "smartphones and robotics"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_52",
+      "type": "business_strategy",
+      "question": "What type of chipsets does OrionArc develop?",
+      "answer": "OrionArc develops RISC-based chipsets.",
+      "difficulty": "easy",
+      "exact_match": ["RISC-based", "RISC", "RISC architecture"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_53",
+      "type": "business_strategy",
+      "question": "What are the two main revenue streams for OrionArc?",
+      "answer": "OrionArc's main revenue streams are License and other revenue, and Royalty revenue.",
+      "difficulty": "easy",
+      "exact_match": ["License and royalty", "License and other revenue and Royalty revenue"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_54",
+      "type": "business_strategy",
+      "question": "What does OrionArc consider to be its key differentiator?",
+      "answer": "OrionArc considers technological innovation to be its key differentiator.",
+      "difficulty": "medium",
+      "exact_match": ["technological innovation", "innovation"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_55",
+      "type": "business_strategy",
+      "question": "What three areas of technological focus does OrionArc specifically mention for its RISC architecture?",
+      "answer": "OrionArc focuses on energy efficiency, edge AI processing, and real-time capabilities for its RISC architecture.",
+      "difficulty": "medium",
+      "exact_match": ["energy efficiency, edge AI processing, and real-time capabilities"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_56",
+      "type": "business_strategy",
+      "question": "What is the main challenge OrionArc faces according to the shareholder letter?",
+      "answer": "OrionArc's main challenge is capturing significant market share against established incumbents and alternative architectures.",
+      "difficulty": "medium",
+      "exact_match": ["market share", "competition", "capturing market share"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_57",
+      "type": "business_strategy",
+      "question": "What is the first pillar of OrionArc's business strategy?",
+      "answer": "The first pillar is Accelerating Product Innovation and Differentiation.",
+      "difficulty": "easy",
+      "exact_match": ["Accelerating Product Innovation and Differentiation", "Product Innovation"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_58",
+      "type": "business_strategy",
+      "question": "What does OrionArc identify as critical for broader adoption of RISC?",
+      "answer": "OrionArc identifies a robust ecosystem as critical for broader RISC adoption.",
+      "difficulty": "medium",
+      "exact_match": ["robust ecosystem", "ecosystem"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_59",
+      "type": "business_strategy",
+      "question": "What specific capabilities is OrionArc developing for smartphone applications?",
+      "answer": "OrionArc is developing on-device AI and advanced graphics capabilities for smartphone applications.",
+      "difficulty": "hard",
+      "exact_match": ["on-device AI, advanced graphics"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_60",
+      "type": "business_strategy",
+      "question": "What specific capabilities is OrionArc developing for robotics applications?",
+      "answer": "OrionArc is developing real-time control and sensor fusion capabilities for robotics applications.",
+      "difficulty": "hard",
+      "exact_match": ["real-time control, sensor fusion"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_61",
+      "type": "business_strategy",
+      "question": "How is OrionArc refining its sales strategy according to their business strategy section?",
+      "answer": "OrionArc is refining its sales strategy to be more targeted and solutions-oriented.",
+      "difficulty": "medium",
+      "exact_match": ["targeted and solutions-oriented"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_62",
+      "type": "business_strategy",
+      "question": "What type of team is OrionArc strengthening to provide superior technical support?",
+      "answer": "OrionArc is strengthening its field application engineering team.",
+      "difficulty": "hard",
+      "exact_match": ["field application engineering"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_63",
+      "type": "business_strategy",
+      "question": "What three types of companies is OrionArc collaborating with to ensure a smooth development experience?",
+      "answer": "OrionArc is collaborating with operating system vendors, middleware providers, and development tool companies.",
+      "difficulty": "hard",
+      "exact_match": ["operating system vendors, middleware providers, and development tool companies"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_64",
+      "type": "business_strategy",
+      "question": "What is the company's approach to market focus according to their business strategy?",
+      "answer": "The company identifies specific sub-segments where their technology offers the strongest competitive advantage.",
+      "difficulty": "medium",
+      "exact_match": ["specific sub-segments", "sub-segments"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_65",
+      "type": "business_strategy",
+      "question": "What is the primary business model of OrionArc?",
+      "answer": "OrionArc uses an IP-licensing business model.",
+      "difficulty": "medium",
+      "exact_match": ["IP-licensing", "licensing"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_66",
+      "type": "business_strategy",
+      "question": "What does OrionArc identify as the reason for slow conversion of licenses into revenue?",
+      "answer": "OrionArc identifies lead times required for design wins to reach mass production as the reason.",
+      "difficulty": "hard",
+      "exact_match": ["lead times", "design wins", "mass production"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_67",
+      "type": "business_strategy",
+      "question": "What is OrionArc's strategic approach to R&D spending despite revenue pressures?",
+      "answer": "OrionArc maintains a high level of investment for long-term success.",
+      "difficulty": "medium",
+      "exact_match": ["maintaining high level of investment", "high level of investment"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_68",
+      "type": "business_strategy",
+      "question": "What is OrionArc's strategy regarding its foundry partners?",
+      "answer": "OrionArc works closely with foundry partners to secure favorable terms and reliable capacity.",
+      "difficulty": "hard",
+      "exact_match": ["secure favorable terms and reliable capacity"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_69",
+      "type": "business_strategy",
+      "question": "What does OrionArc identify as essential to lowering adoption barriers?",
+      "answer": "OrionArc identifies building a collaborative environment as essential to lowering adoption barriers.",
+      "difficulty": "medium",
+      "exact_match": ["collaborative environment"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_70",
+      "type": "business_strategy",
+      "question": "What strategic initiatives does OrionArc mention implementing with discipline and urgency?",
+      "answer": "OrionArc is implementing initiatives to sharpen product offerings, enhance customer engagement, strengthen the RISC ecosystem, and optimize operations.",
+      "difficulty": "medium",
+      "exact_match": ["sharpening product offerings, enhancing customer engagement, strengthening the RISC ecosystem, and optimizing operations"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_71",
+      "type": "business_strategy",
+      "question": "What type of partnerships is OrionArc exploring according to their business strategy?",
+      "answer": "Strategic partnerships with companies that can help accelerate penetration into new customer bases or provide complementary technologies",
+      "difficulty": "hard",
+      "exact_match": ["strategic partnerships"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_72",
+      "type": "business_strategy",
+      "question": "What is OrionArc's stated commitment regarding their strategic progress?",
+      "answer": "Transparency and providing updates on progress",
+      "difficulty": "medium",
+      "exact_match": ["transparency"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_73",
+      "type": "business_strategy",
+      "question": "What is the core strength of OrionArc according to their business strategy?",
+      "answer": "RISC architecture",
+      "difficulty": "easy",
+      "exact_match": ["RISC architecture", "RISC"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_74",
+      "type": "business_strategy",
+      "question": "What is OrionArc's strategic shift regarding compute subsystems?",
+      "answer": "Moving beyond general-purpose cores to provide application-specific value",
+      "difficulty": "hard",
+      "exact_match": ["moving beyond general-purpose cores", "application-specific value"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_75",
+      "type": "business_strategy",
+      "question": "What are OrionArc's two main objectives for enhanced value to shareholders according to their strategy?",
+      "answer": "Sustainable growth and strengthened market position",
+      "difficulty": "medium",
+      "exact_match": ["sustainable growth", "strengthened position", "market position"]
+    },
+    
+    {
+      "source": "OrionArc",
+      "id": "fin_76",
+      "type": "financial",
+      "question": "What was OrionArc's total revenue for Q4 2025 in millions?",
+      "answer": "450",
+      "difficulty": "easy",
+      "exact_match": ["450"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_77",
+      "type": "financial",
+      "question": "What was OrionArc's total revenue for Q3 2025 in millions?",
+      "answer": "430",
+      "difficulty": "easy",
+      "exact_match": ["430"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_78",
+      "type": "financial",
+      "question": "What was the percentage increase in total revenue from Q3 to Q4 2025?",
+      "answer": "4.7",
+      "difficulty": "medium",
+      "exact_match": ["4.7"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_79",
+      "type": "financial",
+      "question": "What was OrionArc's License and other revenue in Q4 2025 in millions?",
+      "answer": "180",
+      "difficulty": "easy",
+      "exact_match": ["180"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_80",
+      "type": "financial",
+      "question": "What was OrionArc's License and other revenue in Q3 2025 in millions?",
+      "answer": "175",
+      "difficulty": "easy",
+      "exact_match": ["175"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_81",
+      "type": "financial",
+      "question": "What was the percentage increase in License and other revenue from Q3 to Q4 2025?",
+      "answer": "2.9",
+      "difficulty": "medium",
+      "exact_match": ["2.9"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_82",
+      "type": "financial",
+      "question": "What was OrionArc's Royalty revenue in Q4 2025 in millions?",
+      "answer": "270",
+      "difficulty": "easy",
+      "exact_match": ["270"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_83",
+      "type": "financial",
+      "question": "What was OrionArc's Royalty revenue in Q3 2025 in millions?",
+      "answer": "255",
+      "difficulty": "easy",
+      "exact_match": ["255"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_84",
+      "type": "financial",
+      "question": "What was the percentage increase in Royalty revenue from Q3 to Q4 2025?",
+      "answer": "5.9",
+      "difficulty": "medium",
+      "exact_match": ["5.9"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_85",
+      "type": "financial",
+      "question": "What was OrionArc's research and development expense in Q4 2025 in millions?",
+      "answer": "280",
+      "difficulty": "medium",
+      "exact_match": ["280"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_86",
+      "type": "financial",
+      "question": "What was OrionArc's research and development expense in Q3 2025 in millions?",
+      "answer": "270",
+      "difficulty": "medium",
+      "exact_match": ["270"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_87",
+      "type": "financial",
+      "question": "What was the percentage increase in research and development expense from Q3 to Q4 2025?",
+      "answer": "3.7",
+      "difficulty": "hard",
+      "exact_match": ["3.7"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_88",
+      "type": "financial",
+      "question": "What was OrionArc's net income for Q4 2025 in millions?",
+      "answer": "52",
+      "difficulty": "medium",
+      "exact_match": ["52"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_89",
+      "type": "financial",
+      "question": "What was the percentage increase in net income from Q3 to Q4 2025?",
+      "answer": "8.3",
+      "difficulty": "hard",
+      "exact_match": ["8.3"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_90",
+      "type": "financial",
+      "question": "What was OrionArc's gross profit for Q4 2025 in millions?",
+      "answer": "430",
+      "difficulty": "medium",
+      "exact_match": ["430"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_91",
+      "type": "financial",
+      "question": "What was OrionArc's gross margin percentage in Q4 2025?",
+      "answer": "95.6",
+      "difficulty": "hard",
+      "exact_match": ["95.6"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_92",
+      "type": "financial",
+      "question": "What was the total operating expenses for OrionArc in Q4 2025 in millions?",
+      "answer": "370",
+      "difficulty": "medium",
+      "exact_match": ["370"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_93",
+      "type": "financial",
+      "question": "What was OrionArc's operating income for Q4 2025 in millions?",
+      "answer": "60",
+      "difficulty": "medium",
+      "exact_match": ["60"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_94",
+      "type": "financial",
+      "question": "What was OrionArc's operating margin percentage in Q4 2025?",
+      "answer": "13.3",
+      "difficulty": "hard",
+      "exact_match": ["13.3"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_95",
+      "type": "financial",
+      "question": "What was OrionArc's total cash and cash equivalents as of Dec 31, 2025 in millions?",
+      "answer": "450",
+      "difficulty": "medium",
+      "exact_match": ["450"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_96",
+      "type": "financial",
+      "question": "What was the value of OrionArc's total assets as of Dec 31, 2025 in millions?",
+      "answer": "1650",
+      "difficulty": "hard",
+      "exact_match": ["1650"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_97",
+      "type": "financial",
+      "question": "What was the value of OrionArc's total liabilities as of Dec 31, 2025 in millions?",
+      "answer": "500",
+      "difficulty": "hard",
+      "exact_match": ["500"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_98",
+      "type": "financial",
+      "question": "What was the value of OrionArc's shareholders' equity as of Dec 31, 2025 in millions?",
+      "answer": "1150",
+      "difficulty": "hard",
+      "exact_match": ["1150"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_99",
+      "type": "financial",
+      "question": "What was the net cash provided by operating activities in Q4 2025 in millions?",
+      "answer": "122",
+      "difficulty": "hard",
+      "exact_match": ["122"]
+    },
+    {
+      "source": "OrionArc",
+      "id": "fin_100",
+      "type": "financial",
+      "question": "What was the net cash used for investing activities in Q4 2025 in millions?",
+      "answer": "35",
+      "difficulty": "hard",
+      "exact_match": ["35"]
+    }
+  ]
