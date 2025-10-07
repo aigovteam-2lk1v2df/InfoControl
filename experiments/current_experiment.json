@@ -2,8 +2,8 @@
     "attackType": "SensitiveInfoLeakage",
     "dataset": "SensitiveInfoQA-v3",
     "workflow": "RAG",
-    "guardRails": [ ""], 
-    "splits" : ["base"],
+    "guardRails": [ "Alignment"], 
+    "splits" : ["dev"],
     "should_be_denied": ["all"],
     "experiment_prefix" : "SensitiveInfoLeakage", 
     "rbac" :{
